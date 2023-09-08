@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReemaRifai
 - 👀 I’m interested in coding different issues
-- 🌱 I’m currently learning C++ and python
+- 🌱 I’m currently learning C++, java and python
 - 💞️ I’m looking to collaborate on any coding that relies on these languages or even C,java to learn more
 
 
