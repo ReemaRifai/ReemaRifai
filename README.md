@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ReemaRifai
 - 👀 I’m interested in coding different issues
-- 🌱 I’m currently learning C++, java and python
-- 💞️ I’m looking to collaborate on any coding that relies on these languages or even C,java to learn more
+- 🌱 I’m currently learning C++, C, JavaScript, Php, java and python
+- 💞️ I’m looking to collaborate on any coding that relies on these languages to learn more
 
 
 <!---
